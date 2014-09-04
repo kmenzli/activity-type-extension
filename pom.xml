@@ -90,6 +90,16 @@
 
         </dependency>
 
+        <dependency>
+
+            <groupId>org.exoplatform.integration</groupId>
+
+            <artifactId>integ-wiki-social</artifactId>
+
+            <version>${product.version}</version>
+
+        </dependency>
+
     </dependencies>
 
 
